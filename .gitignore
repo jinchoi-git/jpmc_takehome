@@ -9,7 +9,6 @@
 venv/
 .env
 
-preprocessed/
 artifacts/**/*.joblib
 artifacts/segmentation/segments.csv
 TakeHomeProject_instructions/

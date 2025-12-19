@@ -1,0 +1,41 @@
+{
+  "categorical_columns": [
+    "class of worker",
+    "education",
+    "enroll in edu inst last wk",
+    "marital stat",
+    "major industry code",
+    "major occupation code",
+    "race",
+    "hispanic origin",
+    "sex",
+    "member of a labor union",
+    "full or part time employment stat",
+    "tax filer stat",
+    "region of previous residence",
+    "state of previous residence",
+    "detailed household and family stat",
+    "detailed household summary in household",
+    "live in this house 1 year ago",
+    "family members under 18",
+    "country of birth father",
+    "country of birth mother",
+    "country of birth self",
+    "citizenship"
+  ],
+  "numeric_columns": [
+    "age",
+    "capital gains",
+    "capital losses",
+    "dividends from stocks",
+    "num persons worked for employer",
+    "own business or self employed",
+    "veterans benefits",
+    "wage per hour",
+    "weeks worked in year",
+    "year"
+  ],
+  "label_column": "label_bin",
+  "weight_column": "weight",
+  "rows": 199523
+}

@@ -16,8 +16,8 @@ import pandas as pd
 
 
 # Raw input paths
-RAW_COLS = Path("TakeHomeProject/census-bureau.columns")
-RAW_DATA = Path("TakeHomeProject/census-bureau.data")
+RAW_COLS = Path("raw_data/census-bureau.columns")
+RAW_DATA = Path("raw_data/census-bureau.data")
 NA_TOKENS = [" ?"]
 
 # Output paths
