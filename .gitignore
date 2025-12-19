@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+*.zip
+*.docx
+.ipynb_checkpoints/
+
+# env
+.venv/
+venv/
+.env
+
+preprocessed/
+artifacts/**/*.joblib
+artifacts/segmentation/segments.csv
+TakeHomeProject_instructions/
